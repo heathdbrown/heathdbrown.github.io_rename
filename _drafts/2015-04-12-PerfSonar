@@ -2,3 +2,15 @@
 Topic on Perfsonar network testing
 http://fasterdata.es.net/performance-testing/perfsonar/ps-howto/
 http://ps-dashboard.es.net/index.cgi?dashboard=1%3A%20ESnet%20to%20ESnet%20Packet%20Loss
+
+Ideas:
+  - Setup nodes in each region
+    * DFW
+    * ORD
+    * IAD
+    * LON
+    * SYD
+    * HKG
+
+Use PerfSonar to detect activity between. 
+Possibly put in environments that we manage to go through a firewall to detect "soft" errors.
