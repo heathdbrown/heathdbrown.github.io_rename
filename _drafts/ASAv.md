@@ -19,3 +19,5 @@ ASAV Notes
      - https://davejsteele.wordpress.com/2012/08/12/virtualbox-ovf-import-error-verr_manifest_file_mismatch-failed-to-import-appliance/
      - Fixed by renaming *.mf to *.manifest and reimporting file.
      - specifically: $ mv asav-vi.mf asav-vi.manifest
+
+5. Error with booting after importing ![](/img/asav-vbox-bootissue.png)
